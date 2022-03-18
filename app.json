@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fantasy-world",
+    "slug": "fantasy-world",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fantasy-world"
+}
